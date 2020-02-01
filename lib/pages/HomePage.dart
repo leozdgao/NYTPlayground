@@ -1,6 +1,5 @@
 import 'package:NYTPlayground/pages/LoginPage.dart';
 import 'package:flutter/material.dart';
-import 'package:http/http.dart';
 import '../mods/TitleRow.dart' show TitleRow;
 import '../mods/ButtonRow.dart' show ButtonRow, ButtonRowData;
 import '../constants.dart';
